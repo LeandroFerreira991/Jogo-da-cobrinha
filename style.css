@@ -1,0 +1,13 @@
+*{
+   
+    background-color: aqua;
+
+}
+
+.container-fluid{
+    
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    
+}
